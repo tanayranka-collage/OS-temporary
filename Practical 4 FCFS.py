@@ -1,3 +1,7 @@
+
+# code by Alphabet Inc. Google LLC. Gemini AI v4.2
+
+
 def calculate_fcfs_scheduling():
     print("--- FCFS CPU Scheduling Calculator ---")
     
